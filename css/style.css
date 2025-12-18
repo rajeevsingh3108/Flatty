@@ -183,3 +183,20 @@ i {
 .credits {
   color: #fff;
 }
+
+
+.team-icons {
+  margin-top: 15px;
+}
+
+.team-icons i {
+  font-size: 18px;
+  margin: 0 10px;
+  color: #3498db;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.team-icons i:hover {
+  color: #7b7b7b;
+}
