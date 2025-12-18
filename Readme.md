@@ -90,11 +90,6 @@ Edit `index.html` to update:
 - Form fields
 - Images and media
 
-### Images
-Replace placeholder images in the `img/` folder with your own assets:
-- `ipad-hand.png` - Hero section image
-- `ser01.png`, `ser02.png`, `ser03.png` - Feature icons
-
 ## 📱 Responsive Breakpoints
 
 The template is optimized for:
